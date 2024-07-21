@@ -29,10 +29,10 @@
 
 ## 💻 Tech
 
-### Game Development
+### Game Development (Degree)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
 
-### Frontend
+### Frontend (Learning)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend (Learning)
